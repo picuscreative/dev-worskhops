@@ -2,9 +2,9 @@
 
 # dev-workshops
 
-List of Dev workshops and respective resources!
+List of Dev Workshops and respective resources!
 
-## 16/03/18 - Git and Continous Delivery
+## 1 - Git and Continous Delivery
 
 - [Git](https://git-scm.com/)
 - [Gitlab](https://gitlab.com/)
@@ -15,7 +15,7 @@ List of Dev workshops and respective resources!
 - [PICUS Code Reviews](https://picuscreative.com/code-reviews)
 - [PICUS Continuous Integration](https://picuscreative.com/continuous-integration)
 
-## 29/03/18 - Cross-Browsing Testing
+## 2 - Cross-Browsing Testing
 
 - [Browserlist](http://browserl.ist/)
 - [BrowserStack](https://www.browserstack.com/)
@@ -24,7 +24,7 @@ List of Dev workshops and respective resources!
 - [PICUS Browser Testing and Support](https://picuscreative.com/browser-testing-and-support)
 
 
-## 06/04/18 - Responsive Web
+## 3 - Responsive Web
 
 - [Mobile First](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
 - [Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Glossary/Progressive_Enhancement)
@@ -33,7 +33,7 @@ List of Dev workshops and respective resources!
 - [PostCSS Media Queries](https://github.com/postcss/postcss-custom-media)
 - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## 13/04/18 - Webpack, Babel, PostCSS, CSSnext, SSR, Next.js
+## 4 - Webpack, Babel, PostCSS, CSSnext, SSR, Next.js
 
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
@@ -43,14 +43,14 @@ List of Dev workshops and respective resources!
 - [Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)
 - [Next.js](https://nextjs.org/)
 
-## 20/04/18 - Practical Object-Oriented Programming
+## 5 - Practical Object-Oriented Programming
 
 - [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 - [SOLID Principles](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Martin Fowler](https://martinfowler.com/)
 
-## 27/04/18 - Acceptance Tests
+## 6 - Acceptance Tests
 
 - [Testcafé](http://devexpress.github.io/testcafe/)
 - [Jest](https://facebook.github.io/jest/)
@@ -59,7 +59,7 @@ List of Dev workshops and respective resources!
 - [PICUS Acceptance Tests](https://picuscreative.com/acceptance-tests)
 
 
-## 04/05/18 - React Patterns
+## 7 - React Patterns
 
 - [React Patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [Redux](https://redux.js.org/)
@@ -70,7 +70,7 @@ List of Dev workshops and respective resources!
 Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 
 
-## 11/05/18 - Google Chrome Dev Tools
+## 8 - Google Chrome Dev Tools
 
 - [Umaar Dev Tips](https://umaar.com/dev-tips)
 - [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
