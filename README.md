@@ -74,3 +74,19 @@ Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virt
 
 - [Umaar Dev Tips](https://umaar.com/dev-tips)
 - [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+
+
+## 9 - Web Performance
+
+- [GTmetrix](https://gtmetrix.com/)
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+
+## 10 - Node Security
+
+- [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [HTTP Parameter Pollution](https://www.npmjs.com/package/hpp)
+- [Helmet](https://www.npmjs.com/package/helmet)
+- [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [Npm audit](https://docs.npmjs.com/getting-started/running-a-security-audit)
