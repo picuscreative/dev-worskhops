@@ -88,5 +88,7 @@ Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virt
 - [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [HTTP Parameter Pollution](https://www.npmjs.com/package/hpp)
 - [Helmet](https://www.npmjs.com/package/helmet)
+- [Securing your Express app](https://www.twilio.com/blog/2017/11/securing-your-express-app.html)
 - [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Npm audit](https://docs.npmjs.com/getting-started/running-a-security-audit)
