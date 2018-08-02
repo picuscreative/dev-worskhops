@@ -92,3 +92,11 @@ Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virt
 - [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 - [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Npm audit](https://docs.npmjs.com/getting-started/running-a-security-audit)
+
+## 11 - Ionic
+
+- [Ionic Presentation](https://drive.google.com/open?id=1e6BRoxBHPG3AlNWfgHnyFEHDO8peStl5)
+
+## 11 - Flutter
+
+- [Flutter Presentation](https://drive.google.com/open?id=1B-oepyGyyqkNyQWc6jy3npgXaqMDekm9)
