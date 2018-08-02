@@ -97,6 +97,6 @@ Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virt
 
 - [Ionic Presentation](https://drive.google.com/open?id=1e6BRoxBHPG3AlNWfgHnyFEHDO8peStl5)
 
-## 11 - Flutter
+## 12 - Flutter
 
 - [Flutter Presentation](https://drive.google.com/open?id=1B-oepyGyyqkNyQWc6jy3npgXaqMDekm9)
